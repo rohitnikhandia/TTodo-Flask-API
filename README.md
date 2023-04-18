@@ -15,7 +15,7 @@ This is a simple Flask application that allows you to create and manage TODO tas
 * Bootstrap
 
 ## Installation
-* Clone the repository: git clone https://github.com/your-username/flask-todo-app.git
+* Clone the repository: using git clone 
 * Change into the project directory: cd flask-todo-app
 * Install the required packages: pip install -r requirements.txt
 * Run the application: python app.py
